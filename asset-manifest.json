@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/devin-portfolio/static/css/main.59ace2a9.css",
-    "main.js": "/devin-portfolio/static/js/main.77361ee3.js",
+    "main.js": "/devin-portfolio/static/js/main.4200b0e2.js",
     "static/media/CV.pdf": "/devin-portfolio/static/media/CV.1118bcb04827c5ab3d33.pdf",
     "static/media/cv.pdf": "/devin-portfolio/static/media/cv.1118bcb04827c5ab3d33.pdf",
     "static/media/bannerImg.png": "/devin-portfolio/static/media/bannerImg.42ff8c8e3d282910df1d.png",
     "static/media/logo.png": "/devin-portfolio/static/media/logo.d27dd1ba48d231fd27d2.png",
-    "static/media/projectOne.jpg": "/devin-portfolio/static/media/projectOne.ef4c599b9a7bfcd66573.jpg",
+    "static/media/projectTwo.jpg": "/devin-portfolio/static/media/projectTwo.ef4c599b9a7bfcd66573.jpg",
     "static/media/contactImg.png": "/devin-portfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
     "static/media/testimonialOne.png": "/devin-portfolio/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
     "static/media/testimonialTwo.png": "/devin-portfolio/static/media/testimonialTwo.c6df2773c486964035d9.png",
-    "static/media/projectTwo.jpg": "/devin-portfolio/static/media/projectTwo.49edb9eeda164e4a7e8c.jpg",
+    "static/media/projectOne.jpg": "/devin-portfolio/static/media/projectOne.49edb9eeda164e4a7e8c.jpg",
     "static/media/pycharm.svg": "/devin-portfolio/static/media/pycharm.754185f8f9acaa6714620b48eac2da76.svg",
     "static/media/intellij.svg": "/devin-portfolio/static/media/intellij.f092d11055b18c7830115329af444607.svg",
     "static/media/java.svg": "/devin-portfolio/static/media/java.9c52b65cdb8ce45c26284f71a5044942.svg",
@@ -25,10 +25,10 @@
     "index.html": "/devin-portfolio/index.html",
     "static/media/tailwindcss.svg": "/devin-portfolio/static/media/tailwindcss.017e1e304e12384d156d384f40a4b5f8.svg",
     "main.59ace2a9.css.map": "/devin-portfolio/static/css/main.59ace2a9.css.map",
-    "main.77361ee3.js.map": "/devin-portfolio/static/js/main.77361ee3.js.map"
+    "main.4200b0e2.js.map": "/devin-portfolio/static/js/main.4200b0e2.js.map"
   },
   "entrypoints": [
     "static/css/main.59ace2a9.css",
-    "static/js/main.77361ee3.js"
+    "static/js/main.4200b0e2.js"
   ]
 }
